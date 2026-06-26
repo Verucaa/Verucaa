@@ -5,7 +5,7 @@ markdown
   
   <!-- Nama GitHub di bawah/di dalam GIF -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=YOUR_GITHUB_USERNAME" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=Verucaa" alt="Typing SVG" />
   </h1>
 </div>
 
