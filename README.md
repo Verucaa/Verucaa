@@ -1,4 +1,4 @@
-```markdown
+markdown
 <!-- GIF HEADER -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" />
@@ -101,4 +101,4 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-```
+
