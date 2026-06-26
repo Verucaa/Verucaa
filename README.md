@@ -285,8 +285,9 @@
 <br />
 
 <!-- 🎵 SPOTIFY NOW PLAYING (Optional) -->
+<!-- GIF HEADER UTAMA -->
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=00ffff&bar_color_cover=false" width="500" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeXBsazVkbnh5b3lneGJzZGVsMnZhbGlpeWQ0aGJ6ZXM2NGxreXJlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif" width="100%" />
 </div>
 
 <br />
