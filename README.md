@@ -14,7 +14,7 @@
 
 <!-- GIF TENGAH -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeXBsazVkbnh5b3lneGJzZGVsMnZhbGlpeWQ0aGJ6ZXM2NGxreXJlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif" width="600" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeXBsazVkbnh5b3lneGJzZGVsMnZhbGlpeWQ0aGJ6ZXM2NGxreXJlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif" width="100%" />
 </div>
 
 <!-- TYPING SVG - MULTI LINE SUPER KEREN -->
