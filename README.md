@@ -141,14 +141,14 @@
   "identity": {
     "name": "Verucaa",
     "alias": "The Code Sorcerer 🧙‍♂️",
-    "role": "Full Stack Developer & UI/UX Enthusiast",
-    "location": "🌐 Somewhere in the Digital Realm",
-    "languages": ["JavaScript", "TypeScript", "Python", "Rust", "Go"],
+    "role": "Vibe Coding Full Stack Developer & UI/UX Enthusiast",
+    "location": "🌐 Indonesia",
+    "languages": ["HTML", "CSS", "JavaScript", "Typescript", "Python"],
     "learning": ["WebAssembly", "AI/ML", "Blockchain"]
   },
   "stats": {
     "coffee_consumed": "∞ ☕",
-    "bugs_fixed": "999+",
+    "bugs_fixed": "99+",
     "sleepless_nights": "42",
     "stackoverflow_tabs_open": 37
   },
