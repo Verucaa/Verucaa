@@ -46,9 +46,7 @@
 
 <!-- 🎯 INTERACTIVE TYPING HOLOGRAM -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=1000&height=200&lines=%E2%96%B6+INITIALIZING_VERUCAA.exe...;%E2%96%B6+LOADING_SKILLS.dll...[████████████]100%25;%E2%96%B6+CONNECTING_TO_UNIVERSE...[✓];%E2%96%B6+STATUS%3A+READY_TO_CODE();%E2%96%B6+%24+sudo+make+the+world+better;%E2%96%B6+while(true)+%7B+create.awesome()%3B+%7D;%E2%96%B6+%F0%9F%9A%80+WELCOME+TO+MY+DIGITAL+REALM+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&separator=%3C&lines=%E2%96%B6+INITIALIZING_VERUCAA.exe...%3C%E2%96%B6+LOADING_SKILLS.dll...%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25%3C%E2%96%B6+CONNECTING_TO_UNIVERSE...%5B%E2%9C%93%5D%3C%E2%96%B6+STATUS%3A+READY_TO_CODE();%3C%E2%96%B6+%24+sudo+make+the+world+better%3C%E2%96%B6+while(true)+%7B+create.awesome();+%7D%3C%E2%96%B6+%F0%9F%9A%80+WELCOME+TO+MY+DIGITAL+REALM+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
 
 <br />
