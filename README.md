@@ -277,13 +277,6 @@
 
 <br />
 
-<!-- 😂 RANDOM DEV JOKES -->
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=0D1117&textColor=00FFFF" width="70%" />
-</div>
-
-<br />
-
 <!-- 🎵 SPOTIFY NOW PLAYING (Optional) -->
 <!-- GIF HEADER UTAMA -->
 <div align="center">
